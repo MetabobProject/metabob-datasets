@@ -89,3 +89,7 @@ We would like to thank the human reviewers for their effort in labeling the data
 
 
 
+## Mirror  
+
+The dataset and associated files can also be downloaded via the links below:
+- https://storage.googleapis.com/temp-public-share/sagemaker.tar
